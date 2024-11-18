@@ -2,8 +2,10 @@
 
 This is my website. 
 
-## About Me
+Jack of all trades, master of none, but better than a master of one.
 
-### Interests
+## Research
+
+
 
 
