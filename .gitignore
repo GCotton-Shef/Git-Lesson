@@ -1,0 +1,6 @@
+*.csv
+tmp/
+*.xlsx
+*.xls
+*.doc
+*.docx
